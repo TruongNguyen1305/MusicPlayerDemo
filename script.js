@@ -78,10 +78,34 @@ const app={
             image: "https://avatar-nct.nixcdn.com/song/2021/11/19/6/d/9/1/1637320885751.jpg"
         },
         {
-            name: "có hẹn với thanh xuân",
+            name: "Có hẹn với thanh xuân",
             singer: "MONSTAR",
             path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1020/cohenvoithanhxuan-MONSTAR-7050201.mp3?st=PjrrnZ2dZ3ffA6R7dRrppQ&e=1638783161",
             image: "https://avatar-nct.nixcdn.com/song/2021/07/16/f/4/9/8/1626425507034.jpg"
+        },
+        {
+            name: "Mình chia tay đi",
+            singer: "ERIK",
+            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui968/MinhChiaTayDi-ERIK-5612413.mp3?st=DJt8XOLEQY_KOJDu8zmCHA&e=1644418513&download=true",
+            image: "https://avatar-ex-swe.nixcdn.com/playlist/2018/08/28/7/5/c/3/1535450323572_500.jpg"
+        },
+        {
+            name: "Dịu dàng em đến",
+            singer: "ERIK",
+            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1021/DiuDangEmDen-ERIKNinjaZ-7078877.mp3?st=HvPzqDmLolk4yk-TLQT16g&e=1644418819&download=true",
+            image: "https://avatar-ex-swe.nixcdn.com/playlist/2021/09/27/7/7/5/f/1632738875136_500.jpg"
+        },
+        {
+            name: "Yêu và yêu",
+            singer: "ERIK",
+            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui922/YeuVaYeuBenhVienMaOST-ERIKSt319-4398957.mp3?st=XdrmtTf6hqE-45Fp8jFUiw&e=1644419013&download=true",
+            image: "https://avatar-ex-swe.nixcdn.com/song/2017/11/29/0/6/1/1/1511950731975_500.jpg"
+        },
+        {
+            name: "Lạc nhau có phải muôn đời",
+            singer: "ERIK",
+            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui935/LacNhauCoPhaiMuonDoiMovieVersionChoEmDenNgayMaiOST-ERIKST319-4724804.mp3?st=HVj9jpt5pIsejA7I-ftUbA&e=1644419187&download=true",
+            image: "https://avatar-ex-swe.nixcdn.com/song/2017/11/29/0/6/1/1/1511950465014_500.jpg"
         }
       ],
     setConfig: function(key, value){
